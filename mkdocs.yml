@@ -1,3 +1,5 @@
 site_name: Kompetenznachweis-Fargate
 theme:
     name: material
+    palette:
+      scheme: slate
